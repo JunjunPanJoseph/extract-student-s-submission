@@ -19,3 +19,6 @@ Run
 ``` 
 python get_students_submission.py lab2
 ```  
+
+### TODO
+Download student's submission automatically from OneDrive
